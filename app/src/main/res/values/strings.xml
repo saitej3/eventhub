@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Event Hub</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string-array name="tabs">
+        <item>MY EVENTS</item>
+        <item>TODAY</item>
+        <item>UPCOMING</item>
+    </string-array>
+
+        <!-- Button text -->
+        <string name="btn_logout_from_google">Logout from Google</string>
+        <string name="btn_revoke_access">Revoke Access</string>
+
+        <string name="server_client_id">156719298888-8tm8tmeab4ds7pq4ltij0etvk9ffeke6.apps.googleusercontent.com</string>
+
+</resources>
